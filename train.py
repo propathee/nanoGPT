@@ -76,6 +76,10 @@ compile = True # use PyTorch 2.0 to compile the model to be faster
 config_keys = [k for k,v in globals().items() if not k.startswith('_') and isinstance(v, (int, float, bool, str))]
 exec(open('configurator.py').read()) # overrides from command line or config file
 config = {k: globals()[k] for k in config_keys} # will be useful for logging
+print("================== CONFIG VALUES =================")
+for k, v in config.items():
+    print(f"{k}: {v}")
+print("===================================================")
 # -----------------------------------------------------------------------------
 
 # various inits, derived attributes, I/O setup
@@ -245,6 +249,7 @@ def get_lr(it):
 if wandb_log and master_process:
     import wandb
     wandb.init(project=wandb_project, name=wandb_run_name, config=config)
+    wandb.watch(model, criterion=None, log="all", log_freq=log_interval)
 
 # training loop
 X, Y = get_batch('train') # fetch the very first batch
@@ -332,5 +337,7 @@ while True:
     if iter_num > max_iters:
         break
 
+if wandb_log and master_process:
+    wandb.finish()
 if ddp:
     destroy_process_group()

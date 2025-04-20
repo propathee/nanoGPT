@@ -18,6 +18,7 @@ if not os.path.exists(input_file_path):
 
 with open(input_file_path, 'r') as f:
     data = f.read()
+    assert len(data.strip()) > 0, f"{input_file_path} is empty!"
 print(f"length of dataset in characters: {len(data):,}")
 
 # get all the unique characters that occur in this text
