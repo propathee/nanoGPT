@@ -1,0 +1,245 @@
+/root/autodl-tmp/repos/nanoGPT/sample.py:38: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  checkpoint = torch.load(ckpt_path, map_location=device)
+Overriding: out_dir = out-shakespeare-char-v2
+number of parameters: 10.65M
+Loading meta from data/shakespeare_char/meta.pkl...
+
+
+KING RICHARD II:
+Say so you that you have done me?
+
+QUEEN ELIZABETH:
+Not he used the truth: let me speak, my dearly lord.
+
+KING RICHARD II:
+I do beseech you, even well.
+
+KING RICHARD III:
+Ay, be it possible with soldiers of my life.
+
+KING RICHARD II:
+My word, my master for this love I myself.
+But I am lieve out of it so, and my life.
+
+KING EDWARD IV:
+Now the duke my crown for the greatest throne leave,
+To fight with our royal bending but away.
+The conqueror hath courtey'd thy revenge from thee,
+---------------
+
+Men pardon, marry, sir, that you shall have more worse well.
+Are you we not dissent to the devil's court?
+
+PARIS:
+This brother should be a slave?
+If I be now, to my pardon me, my knows my son:
+He doth receive to seek it to seek upon thee;
+For though I have done beauty again
+About with the voice of my death will I stand
+Be crown'd upon their heads.
+
+CAMILLO:
+Do you possible
+This determine of your promises, or what you came
+To me the most man in this court. Let me come.
+
+ELBOW:
+The purse that is e
+---------------
+
+Messenger:
+The sealing of what is a while.
+
+AUTOLYCUS:
+A flatter, when you are aged to the world,
+A skill within you?
+
+First Senator:
+But now, come.
+
+Clown:
+Sir, you are a cause of the field and in the death of the
+boar of your wife's master.
+
+Clown:
+He that stick me with her mother; and here it lies not
+justice: 'tis no more remember man, he is in stand beloved us,
+the duke and have been so much precious to the
+law a bell to the people.
+
+Shepherd:
+Come, you are age, insolent: but all the
+entrea
+---------------
+
+The smiles justice of peace, say so.
+First, thou art the corse of my eyes; here in this
+is no more. Though I have more than word to him
+weary the man would have a warrant as if
+he could had held as he is, he had so weary a note.
+
+POMPEY:
+He has been abhorsed, sir! what's the life?
+
+ANGELO:
+At her way before?
+
+POMPEY:
+No, sir, if you do like a speed fool.
+
+PETER:
+Pardon, cousin.
+
+ISABELLA:
+Who's he?
+
+ANGELO:
+
+ISABELLA:
+Then, sir.
+
+ANGELO:
+Then, good father, 'tis the duke, make her then,
+That all 
+---------------
+
+BUCKINGHAM:
+Then, my gracious sovereign, grandam, my guest fled thee,
+That all the friend with the earth of kings,
+But to cloud me in etermine and easy,
+To the second mind of my mother's blood.
+
+KING RICHARD II:
+What, if you do not convey them?
+
+KING RICHARD II:
+Come, cousin, you are too for my England's heir,
+To frown and turning it soundly.
+
+QUEEN ELIZABETH:
+Why, so, then should I be brought with other'd head,
+And I may live to thee fair bow's death,
+That presently should estate me for that I 
+---------------
+
+
+MENENIUS:
+He had a man to a swear.
+
+VOLUMNIA:
+Brief, hear me and hear not speak, nor we'll be the wars
+To see him to the port.
+
+MENENIUS:
+There is no respect to be thus for me.
+And will I pray you: if you could take off your speed
+With rob confessors, and for your name.
+
+COMINIUS:
+I think you'll not what face.
+
+COMINIUS:
+The Volscians, get you to Rome;
+The creature bench your lady; which do you to rust a
+courteous thing, I know not such a thought you may have at
+hand behinds so his army.
+
+COMIN
+---------------
+
+Shepherd: but his friends me first, have, when it was done, it
+must be good. The most advantage and your wife's good:
+if I do the good noble countenance rest it, a
+chargeous knees the will answer.
+
+POLIXENES:
+See her to you with me.
+
+FLORIZEL:
+She is the character and for me assured
+Well fall interchanged.
+
+Shepherd:
+Even for the centre.
+
+PAULINA:
+Nay, I am strange;
+The lady subjects, that mockers bow
+The foolery of the better.
+
+FLORIZEL:
+Come, do no man again,
+He shall not look upon, and they d
+---------------
+
+I had hold forgot another, or will not run away,
+And venied the gentleman that same the man
+Should be wash'd with his necessary.
+
+FLORIZEL:
+I have a man will dead.
+He do promised this account is.
+
+Shepherd:
+Nay, hie thee: make me will not be talked to see
+With him starves and deserves by the common soldier.
+
+KING RICHARD II:
+Say, the head of women, were no more.
+
+STANLEY:
+Now may the queen a woman dedicition!
+
+QUEEN ELIZABETH:
+O brother, if thou wilt have more fear,
+I will appeal thee with thy w
+---------------
+
+SLY:
+Who was there?
+
+Provost:
+Ay, and you fight: if you know, I would have found it.
+
+PAGE:
+How now, how now, sir?
+
+HASTINGS:
+My lord?
+
+PRINCE EDWARD:
+I have my lord, Buckingham, as I had:
+Yet, miserable lord, I mean to be ill the forrow:
+Therefore is our majesty ambushed here, in any
+summer's eyes to drink a humour for to death;
+And let me have stay to you buy a wife.
+
+KING EDWARD IV:
+Well, there is he too much of your love,
+To remember to be a king, and you shall return.
+
+PRINCE EDWARD:
+Pierci
+---------------
+
+He had been set drops:
+A priest day, most death affliction.
+
+HENRY BOLINGBROKE:
+My lord, I know you no rest with your shame,
+I do not truly with us.
+
+HENRY BOLINGBROKE:
+Then, my gracious lord:
+I have no man as lived with a breath.
+
+KING RICHARD II:
+Then I have lived for him love--
+
+RICHARD II:
+My Lord Northumberland, we for his cheeks;
+For all his force than a great accursed weed;
+The foe thither like a life of the haught:
+With heighty of this devilish wrong,
+And that, here comes his death: then
+---------------

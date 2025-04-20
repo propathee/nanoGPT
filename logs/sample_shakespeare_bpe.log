@@ -1,0 +1,689 @@
+/root/autodl-tmp/repos/nanoGPT/sample.py:38: FutureWarning: You are using `torch.load` with `weights_only=False` (the current default value), which uses the default pickle module implicitly. It is possible to construct malicious pickle data which will execute arbitrary code during unpickling (See https://github.com/pytorch/pytorch/blob/main/SECURITY.md#untrusted-models for more details). In a future release, the default value for `weights_only` will be flipped to `True`. This limits the functions that could be executed during unpickling. Arbitrary objects will no longer be allowed to be loaded via this mode unless they are explicitly allowlisted by the user via `torch.serialization.add_safe_globals`. We recommend you start setting `weights_only=True` for any use case where you don't have full control of the loaded file. Please open an issue on GitHub for any issues related to this experimental feature.
+  checkpoint = torch.load(ckpt_path, map_location=device)
+Overriding: out_dir = out-shakespeare-bpe
+number of parameters: 29.94M
+No meta.pkl found, assuming GPT-2 encodings...
+
+That any thing to die.
+
+
+I am so:
+And that I think you to have
+For what I'll have saved again?
+I'll tell me, and they but one that.
+
+But for the queen of life then be admitted to see me:
+By any of such power;
+Who could not,
+As it is she is: I'll have show him.
+I am a little with you,
+And call me.
+
+HENRY BOLINGBROKE:
+The king's hence again to the war more
+Of a bond of Lancaster;
+But what is the presence
+For all that this same way of his face, proud to the foe,
+And I cannot,
+And,
+Too true sovereign's truth of all the king,
+And with his father,
+And,
+That thou speak, Vaughan, your love,
+As now,
+Let me be deposed,
+DUCHESS OF YORK:
+Than pity makes me be us hear me with our lordship of this presence
+In his lawful king,
+His kind of the golden crown,
+Thy father's blood; and their helmets and their woes:
+Things that thou stripling and quite
+Or, and looks are much more,
+And what thou wretch,
+That art thou, if that I'll hide, but by a thousand times be repeal'd
+Even in a thousand by the loss or end.
+If to make me;
+Thou didst not for no other sorrow and I'll persuade thee,
+Like to a thousand words, to do not weep and thee;
+When first I do not do no more.
+My loving words in Yorkshire are fair blood
+And do I came to the banishment.
+When he makes me in France, then come in their oath,
+Peace, but by the Duke of England's hand of Lancaster's defence,
+Speak to our father's lands, Henry's sovereign,
+As for ourselves,
+And then we are welcome you had the crown'd in time
+We cannot aid of sorrow
+And never will and would to meet that our friends,
+And on his country's enemies, now will break on me.
+That whiles we have them.
+With death:
+Is in each means to the harvest of York and the queen,
+That Richard!
+But,
+
+WARWICK:
+
+---------------
+
+RICHARD:
+My lord, with a traitor?
+
+EDWARD:
+If thou do not make great duty,
+I'll follow you to the king,
+And, to the field.
+WARWICK:
+Thou mightst be thy sovereign, and no more.
+And, like thee and that loss,
+And now thou, and thy knee speak or my sovereign,
+
+His shadow and thy subjects,--
+
+WARWICK:
+With a king is much hours than thy bosom thou shalt hear thee.
+Thy, who now the traitor blood.
+
+
+RICHARD:
+My lord, like thou canst thou leave me and York, though that thy friends.
+
+
+EDWARD:
+Do never brought you do I shouldst thou speak,
+I didst thou kneel me from thee here.
+
+
+KING EDWARD IV:
+But, if thy father Montague, our lawful king, my kingdom speak so:
+And thou and take thy wrath for my duty to me
+And yet we will we'll speak,
+And that I shall send thy unhearted friends.
+
+
+EDWARD:
+Unto our royal queen,
+Till Edward's for the way to the Duke of York, thy brother of York.
+My soldiers to Burgundy.
+WARWICK:
+And let Clarence, our rest to fly our bodies and in his blood of the blood,
+And fellles in graves
+And in your fatal land
+And brought thee,
+And in their steeds on the sceptre we not thy throat,
+And yet we done to death;
+In choosing me thy person our blood,
+My friends that our complices with them in a curse
+Which not that in arms of Norfolk, and war,
+The noble Edward's banish'd in the crowns,
+For all the Duke of my God's house of York;
+Or when Warwick,
+Were I hadst thou not our dost thou to our oath
+And make us take King Henry's death
+And here hath Boling Edward is to Henry's kingdom's son thereof had to his majesty.
+
+
+
+RICHARD:
+This, Warwick come to the traitor, and Burgundy, Oxford.'
+And 'tis our soldiers fled his friends!
+Seize your will I in,
+And weRY VI:
+Having Clifford,
+And
+---------------
+
+
+A plague o' the world.
+
+IDIUS:
+Why, my worthy Hector, if it is't not
+Of that I am, you
+Than not the world of my sight!
+
+
+BRUTUS:
+And therefore give me
+If I have been,
+AEdiles, and am consul star, we will make them,
+And whither along.
+BRUTUS:
+For a disease is the body.
+
+BRUTUS:
+But look you like to thee, you to hear him:
+Which on our friends and he would not so,
+And urged to Rome, we do we ought to think and in his faults,
+The gates are rising nor end,
+And yet; and their plebeians,
+As I am a
+Tis it in his honours, who you shall lose the pleaders and clubs: we have been
+That we may deserve: the event.
+We are
+Ourcius was,
+First Citizen:
+Let us their strokes,--
+SICINIUS:
+He has a taunts the nobles.
+
+They like a Rome were more we'll lose their enemies of Rome.
+
+BRUTUS:
+And with men; and as he did we'll not the city.
+Our Marcius!
+
+MENENIUS:
+SICINIUS:
+Why,
+Aufidius!'
+As 'twas the tribunes; and so would be done.
+With Rome of Tribunes;
+
+SICINIUS:
+Here, people and,
+IUS:
+Which for that he shall be in our voices;
+That our power,
+That's off his pride, 'twas in Rome,
+He shall to our Rome,
+To take
+Now, the senators, this war.
+A thousand men are thus.'
+
+
+CORIUS:
+SICINIOLANUS:
+MARCIUS:
+Let's our Marcius, and they are the disease that are gods o' the Capitol,
+That our wives:
+And
+BRUTUS:
+That he shall bear our hate with the people,
+His praises is his
+Into the people has in Marcius was so people,
+Of burning Rome,
+SICINIUS:
+That's no more our trenches o' the people,
+As
+---------------
+
+
+And do you live,--
+
+
+DUCHESS OF YORK:
+I have pardon'd,
+What, my lord?
+
+DUCHESS OF YORK:
+And so, no, if thou wert thou dost thou know'st not,
+This is no more with me;
+By it not, where I will,
+If not keep the good, my purpose!
+Thoust set up my gracious love!
+I am on thyself and not enter?
+
+JOHN OF GAUNT:
+Thyself on thee leave me, and thy father'st that my life.
+So should do thyself, thou not thyself.
+
+
+RICHARD:
+I've me, that thou hast thy beauty hath a woing with Tybalt'st with glory,
+Thy father'st thou'll thee:
+I'll never warrant thee have a want.
+
+Tell me myself
+KING RICHARD II:
+No, with thee not to both thy death, Montague,
+No, alack thy life, in thy sorrow
+And yet I'll do I live in thine own.
+
+DUCHESS OF YORK:
+Ount, for thy lips are dear love, be done.
+'er heaven I'll give thee;
+But thou be gone, that I know thy hand to thy father's chair,
+And in hell? thou wilt thy brother,
+
+Thy louts me to thee gwest to kill thee, if I'll speak thou wert thou set up.
+They all.
+My lands and with thy consent of thy body is full of England's womb,
+His death,
+We shall I use the king of our presence
+To fight.
+Gentlemen must be not my father hath sent me from my soul to his king.
+And I will be I to make a tear,
+
+To England's death of those that thy mind,
+And the loss to London again, and the body to our words will meet our heart,
+Or,
+'er them for having gentle Rutland, and Warwick,
+And full of France, in grief;
+They, Duke of mine own fortune now, our king.
+That in the gentle Edward;
+His lands, is Richard, in this is the soldiers do set upon the soldiers,
+And for our high rest is as a
+---------------
+
+',
+LADY CAPULET:
+Sirrah, no, I see thee to the rest.
+
+LADY CAPULET:
+Peace!
+LADY CAPULET:
+This is the lady, fair kinsman:
+Nurse:
+Bydraw with mine, let me give thee so.
+
+
+LADY CAPULET:
+LADY CAPULET:
+
+Which is the time.
+
+
+
+LADY CAPULET:
+Help, good forth! she's come, ho!
+
+She's nest out these wars; come, back.
+
+JULIET:
+Good night;
+JULIETINCE:
+And come, come, madam, good mistress' love, I have you, help.
+
+This is a dish, by me, nurse of her!
+
+JULIET:
+
+UnT:
+By such a farmer's my soul's daughter,
+What, no more husband's name is at hell?
+
+
+JULIET:
+Her heart is the day hath he was mine own eye, I am sure,
+That makes her.
+
+LADY CAPULET:
+Let me; so:
+Let me for the day afeit in another in her in love.
+Where means for the day's death,
+
+
+
+JULIET:
+JULIET:
+And I saw me the contrary is our youth
+Revaught by night, seeing now she is her life with Tybalt's wife and her.
+To hide me with her cheek, in her husband'st,
+Then,
+
+The other's in his bed, and the cords,
+And she sings on my tongue hath her day's pen;
+As I,
+To be the hand as he will she be in her lord,
+Is love her fair a dearth, that black,
+And all the heavy day,
+More light off,
+And with sweet world, in hell, who of world is worldly words that she,
+T:
+Have a week;
+This is her back with her:
+And every word:
+Give me all your counsel; therefore, and joys may be bold John of thine,
+Which then I have her mother's summer's sake,
+He would she is a villain's son;
+---------------
+
+What news you, that she stood by my counsel?
+For the father's no month
+From him.
+
+CAMILLO:
+IUS:
+And you can say.
+
+CAMILLO:
+You had not a note;
+We had been the belly,
+of the world to the state, he hath done.
+
+COMINIUS:
+'er your sheep-song,
+Our old
+Her country's a herd?
+The manner 'twere in Rome
+This,, in revoke
+You have fought,
+We have enter by the multitude by their hearts and their freedoms,
+To the great
+IUS:
+The common people and our voices,
+Likeing
+Within the wars and unshapen their neighbours' the wars
+For their caps together
+That's breaths with their wars 'twas.
+
+
+
+CORIOLANUS:
+In whom the people, have deserved
+We'll bear them,
+IOLANUS:
+What shall have made you home already,
+
+And all their general, and them,
+The wounds and on our will make an oath.
+
+CORIOLANUS:
+Of one, when they'll seem to our people, as they
+In tongues in my soaring insolence to
+That which we have had,
+To answer to hear the senators and them now!
+As with them both ourUS: the power you,
+From them.
+
+SICINIUS:
+You are manyul.
+But when you shall not Rome, man's one that am proof with the people,
+Time-ius, we do down your weapons are out;
+That in the people, fair their own party for Rome,
+For theirs,
+That way are into all his tongues are not bear their freedoms,
+And in their loves,
+Like to them and their hearts without him,
+But by to make us as we have rack'd,
+The people, and these pride are in revoke
+Till thus
+And all the field of our friends,
+Did they are they are unwhot of our territories,
+As if the main party,
+Though we us.
+COMINIUS:
+We will not their shores, that we met,
+Or as you to Rome their election?
+We are he took their functions:
+Some's away, when I so comes good
+---------------
+
+Thou stern, my soul, my child,
+And yet, we have a woman's death?
+
+QUEEN MARGARET:
+So, but I live,
+Speak unto me, and see thee to me, my hands,
+With me,
+And since I love;
+By heaven, the royal blood of the adverse demand,
+And with black son,
+Shall my life, in pure life of my name,
+And there not thy true soul I canst make thee.
+
+
+HENRY BOLINGBROKE:
+It be the sacred blood, am no more?
+
+QUEEN MARGARET:
+Let me do them have forgot,
+Than me speak, the Tower.
+
+QUEEN MARGARET:
+Who all that all our holy,
+My grave, on the way that I must be told me know not.
+
+
+GLOUCESTER:
+And when it, my liege, my true, and,
+
+And would I may I come;
+And you that you know what is not,
+Then, as a good gracious lord,
+My brother's law is for the king be your joy
+If that we will I'll be set him, and all that we will follow him,
+Even in King of my queen 'tis but as I'll answer'd with him to my fortune with her.
+
+And we say my son, I'll do,
+Myself and then we will use of friends with all his royal Clarence, as yours.
+That I not the queen,
+HASTINGS:
+Tell me. and, by my lord,
+For therefore,
+The self to my lord, till to the King Henry's, my brother come,
+I would we may adventure to the queen,
+Our prayers will we will not at your succession.
+Wherein whereof the royal justice and look upon the king,
+And for an oath, as it must will we will take in safety,
+I have.
+Upon my father, this but that we are to we will speak, we'll be thrown up
+That in hand of they are to your king;
+If well we may make us to meet us to ourself and here we to the king,
+And for us to our friends are well for ourselves.
+And we do we to France.
+We
+---------------
+
+SICINIUS:
+O, sir,
+You, what is what,
+This should they have heard him.
+
+BRUTUS:
+He shall serve up, be 'tis it in Russia; and he is't.
+Which he to Marcius,
+IUS:
+You are too; but we take it:
+Which to be in Coriolanus.
+
+MENENIUS:
+We shall have been a gods, and leave you, I know it.
+
+
+MENENIUS:
+Will you, sir, sir, our tribunes; I shall not by your voices.
+
+
+
+BRUTUS:
+OKE:
+This is it hath a common?
+
+
+Or o' the city, and that they had the tribunes,
+Is more, the Capitol.
+BRUTUS:
+His name you have initizens:
+Though enemies.
+
+MENENIUS:
+COMINIUS:
+And I'll not!
+Than the news that, Aufidius.
+CORIOLANUS:
+It is this one thing that do not--
+
+BRUTUS:
+The people are so?
+
+HERMortal, sir, and revoke
+He's, he had not by the pride
+Of Rome
+My business, Aufidius,
+Than him.
+The people, no, that wants such falsehood to me
+As ever I will answer'd: but he had but the people,
+Let him, I have been Coriolanus, to him in we stand
+For not
+You are like mercy with eyes, which,
+SICINIUS:
+Are not to give him.
+CORIUS:
+More than that he would not the utmost of your honours you.
+Tasters, are, I have seen in abundance;
+IOLANUS:
+The gods will put all his neck,
+The people, but that
+To the people are grown in Rome in arms and the people,
+Which in in his country'd peace of Rome of us
+From forth
+Though we are as the Marcius, and their friends to Rome, and honours in Rome,
+Were he, Coriolanus
+Our name of Rome when he speaks his kind of Rome and revoke
+
+The people should,
+They are they are away; that, that that power
+---------------
+
+As it is't with't, when he would,
+He does, I thought to know it he died yet it is he would have king.
+
+
+CAMILLO:
+IUS:
+He did not in time.
+SICINIUS:
+O:
+But a petition of his own life's hear not,
+And when it so little power, which that it.
+
+
+BRUTUS:
+As,
+Let me show me that he'st a greater
+The gates have been a fool, a year,
+As to me this man,
+Thy one, whose loves him, had made to kill'd their freedoms,
+IUS:
+The common friends are the people,
+That follows like to a very belly.
+Our army is mine senses of his customers with the people,
+When he does not at
+s:
+Insol' the gods
+The Volsces
+Who will we have been their own and men,
+Then have been a mile?
+
+BRUTUS:
+That you might have them all the people,
+The gods,
+As if they do you
+His ignorant re wondering:
+And then no
+And daily are sure of Rome can make us to yield to do you
+Like Rome, now in that
+I never had been an peace
+Which almost thoroughly death.
+
+BRUTUS:
+And not of the world to Rome'll be to put it,
+That with your election; but that
+With gloves: but the people do Rome.
+And thus,
+When we cannot spare you are fled: when we be thrown by him
+To be a hostess them.
+That we will we are we could thus
+Our ladies shall make.
+Which we chose a enemies that their suffTON:
+For Rome,
+They shall we are not our people two are, here we are all the people are friends and
+Which in that which I had
+Your friends
+BRUTUS: but they are bound to
+As follows bound to war
+SICINIUS:
+IUS:
+Which we
+In doing me my power to cry 'shall fight and the Romans that come.
+My great power with
+SICINIUS:
+Which puts upon Cominians, and them we are the city, that
+That we thought we are friends and we are in your patience,
+We have we
+---------------
+
+Whose prayers to the moon
+The sun is't, but attendedhire do not
+Of giving days had to the issue.
+
+MENENIUS:
+O, yet I know thee then they were, peace,
+IUS:
+I'll make them.
+
+VOLUMNIA:
+
+It is the gods.
+CORIOLANUS:
+IUS:
+Be't not what's not know,
+Since I am a mile?
+
+CORIOLANUS:
+And take it;
+Being so highness' the court with him--on with a senators,
+IUS:
+IOLANUS:
+IUS:
+IUS:
+Come, he comes
+Come on, you,
+I beseech you more.
+
+Caius, we desire to't.
+MENENIUS:
+Come, and home again.
+
+CORIOLANUS:
+IUS:
+Ay,
+First Lord:
+And let us me be bold; I beseech you here
+Take me go along.
+
+CORIOLANUS:
+' the queen.
+SICINIUS:
+You have
+SICINIUS:
+O, sir, we are;
+IUS:
+Speak, or you: but a consul,
+And the Capitol;
+Confess the voices,
+And that our weapons!
+That that our wives:
+The people are given you are bound to Rome are we hear,
+To seek to their pride.
+
+
+SICINIUS:
+BRUTUS:
+Give you are forth their party;
+You are true,
+They are you thisitizens: the market-t,
+Our ancient gates will not the people are we the people,
+
+SICINIUS:
+As if they look'd with our masters!
+To see us:
+BRUTUS:
+And we are so, each welcomes.
+
+
+SICINIUS:
+Pray you consul, you
+Peace, now have deserved consul.
+
+COMINIUS:
+With strokes,
+How only work!
+BRUTUS:
+It's in all.
+But men to Marcius was a Marcius, but,
+
+SICINIUS:
+The people, Marcius, to have been with us--
+---------------

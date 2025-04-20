@@ -1,0 +1,16 @@
+{"time":"2025-04-20T16:08:35.697747062+08:00","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/root/autodl-tmp/repos/nanoGPT/wandb/run-20250420_160835-yasq1w21/logs/debug-core.log"}
+{"time":"2025-04-20T16:08:36.684295012+08:00","level":"INFO","msg":"created new stream","id":"yasq1w21"}
+{"time":"2025-04-20T16:08:36.684384292+08:00","level":"INFO","msg":"stream: started","id":"yasq1w21"}
+{"time":"2025-04-20T16:08:36.684411118+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"yasq1w21"}
+{"time":"2025-04-20T16:08:36.684439518+08:00","level":"INFO","msg":"handler: started","stream_id":"yasq1w21"}
+{"time":"2025-04-20T16:08:36.684433792+08:00","level":"INFO","msg":"sender: started","stream_id":"yasq1w21"}
+{"time":"2025-04-20T16:08:37.155683434+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-20T16:14:07.600103217+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-20T16:14:07.600243833+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-20T16:14:08.604066053+08:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading wandb-summary.json","runtime_seconds":0.198467124},{"desc":"uploading output.log","runtime_seconds":0.198449992}],"total_operations":2}}
+{"time":"2025-04-20T16:14:10.107379576+08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-20T16:14:11.398363154+08:00","level":"INFO","msg":"stream: closing","id":"yasq1w21"}
+{"time":"2025-04-20T16:14:11.398394191+08:00","level":"INFO","msg":"handler: closed","stream_id":"yasq1w21"}
+{"time":"2025-04-20T16:14:11.398410778+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"yasq1w21"}
+{"time":"2025-04-20T16:14:11.39844308+08:00","level":"INFO","msg":"sender: closed","stream_id":"yasq1w21"}
+{"time":"2025-04-20T16:14:11.398614434+08:00","level":"INFO","msg":"stream: closed","id":"yasq1w21"}
